@@ -137,7 +137,7 @@ h3 {
 	flex-direction:column;
 	justify-content:space-around;
 	align-items: center;
-    margin:250px 150px;
+    margin:230px 150px;
 	box-shadow: 5px 5px 25px;
 	background-color:#EFD9B3;
     padding:1.5rem;
@@ -155,7 +155,7 @@ h3 {
 	flex-direction:column;
 	justify-content:space-around;
 	align-items: center;
-    margin:250px 750px;
+    margin:230px 750px;
 	box-shadow: 5px 5px 25px;
 	background-color:#EFD9B3;
     padding:1.5rem;
@@ -173,7 +173,7 @@ h3 {
 	flex-direction:column;
 	justify-content:space-around;
 	align-items: center;
-    margin:250px 1350px;
+    margin:230px 1350px;
 	box-shadow: 5px 5px 25px;
 	background-color:#EFD9B3;    
 	padding:1.5rem;
